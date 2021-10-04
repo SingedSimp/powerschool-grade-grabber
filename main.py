@@ -131,5 +131,5 @@ for i in range(len(form)):
 ##print(form[1][0] + "\b:", form[1][1][0], "(" + form[1][1][1] + ")")
 ##print(form[2][0] + "\b:", form[2][1][0], "(" + form[2][1][1] + ")")
 ##print(form[3][0] + "\b:", form[3][1][0], "(" + form[3][1][1] + ")")
-sleep(100)
+
 driver.close()
